@@ -1,0 +1,17 @@
+.App-body {
+	font-size: 1.3rem;
+	padding: 1.3em;
+	border-bottom: 2px solid hsl(231, 100%, 50%)00%, 50%;
+	height: 40%;
+}
+
+.form-inputs {
+	display: flex;
+	gap: 1.8em;
+	align-items: center;
+}
+
+.form-inputs .input input {
+	height: 1.3rem;
+	margin-left: 13px;
+}
